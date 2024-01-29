@@ -6,8 +6,8 @@ As a user, I want to input a string so that I can count the number of vowels in 
 
 # Test Cases:
 **Test Case 01:**
-Input: "Hello"
-Expected Output: 2 (since 'e' and 'o' are vowels)
+&emsp;Input: "Hello"
+&emsp;Expected Output: 2 (since 'e' and 'o' are vowels)
 **Test Case 02:**
 Input: "PYTHON"
 Expected Output: 1 (since 'O' is a vowel)
