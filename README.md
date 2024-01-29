@@ -20,6 +20,7 @@ As a user, I want to input a string so that I can count the number of vowels in 
  
 &emsp;**Input**: "bcd"
 &emsp;**Expected Result**:  0 (no vowels)
+
 ***Test Case 04***:
 
 &emsp;**Input**: "aeiou"  
