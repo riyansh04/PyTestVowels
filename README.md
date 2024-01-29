@@ -23,7 +23,7 @@ As a user, I want to input a string so that I can count the number of vowels in 
 ***Test Case 04***:
 
 &emsp;**Input**: "aeiou"  
-&emsp;**Expected Result**: 5 (all letters are vowels)
+&emsp;**Expected Result**: 5  (all letters are vowels)
 
 ***Test Case 05***:
 
