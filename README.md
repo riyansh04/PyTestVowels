@@ -7,29 +7,28 @@ As a user, I want to input a string so that I can count the number of vowels in 
 # Test Cases:
 ***Test Case 01***:
 
-&emsp;**Input**: "listen" and "silent"  
-&emsp;**Expected Result**: The function should return true as the strings are case-sensitive anagrams.
+&emsp;**Input**: "Hello"
+&emsp;**Expected Result**: 2 (since 'e' and 'o' are vowels)
 
 ***Test Case 02***:
  
-&emsp;**Input**: "hello" and "world"  
-&emsp;**Expected Result**: The function should return false as the strings are not case-sensitive anagrams.
+&emsp;**Input**:  "PYTHON" 
+&emsp;**Expected Result**: 1 (since 'O' is a vowel)
 
 ***Test Case 03***:
 
  
-&emsp;**Input**: "Astronomer" and "Moon Starer"  
-&emsp;**Expected Result**: The function should return false as the strings are not case-sensitive anagrams.
-
+&emsp;**Input**: "bcd"
+&emsp;**Expected Result**:  0 (no vowels)
 ***Test Case 04***:
 
-&emsp;**Input**: "debit card" and "bad credit"  
-&emsp;**Expected Result**: The function should return true as the strings are not case-sensitive anagrams.
+&emsp;**Input**: "aeiou"  
+&emsp;**Expected Result**: 5 (all letters are vowels)
 
 ***Test Case 05***:
 
-&emsp;**Input**: 123 and "321"  
-&emsp;**Expected Result**: The function should return false as the input types are different (number and string).
+&emsp;**Input**: ""
+&emsp;**Expected Result**: Error: No input provided.
 
 # Test Result Summary:
 | S.No 	| Test Method Name                     	| Test Description                                                                                                                     	| Input                          	| Expected Output 	| Actual Output 	|
