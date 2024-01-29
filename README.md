@@ -1,10 +1,10 @@
-# PyTestVowels
+# PyTestVowels:
 Counting no. of vowels in a given input string
 
 # User Story:
 As a user, I want to input a string so that I can count the number of vowels in it.The program can handle both lowercase and uppercase vowels.
 
-# Test Cases
+# Test Cases:
 Test Case 01:
 Input: "Hello"
 Expected Output: 2 (since 'e' and 'o' are vowels)
@@ -21,7 +21,7 @@ Test Case 05:
 Input: ""
 Expected Output: Error: No input provided.
 
-# Test Result Summary
+# Test Result Summary:
 | S.No 	| Test Method Name                     	| Test Description                                                                                                                     	| Input                          	| Expected Output 	| Actual Output 	|
 |------	|--------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------	|-----------------	|---------------	|
 |   1  	| Basic Anagram Checker                	| Check whether two given strings are composed of the same set of case-sensitive characters and each character can only occur once. 	| "listen" and "silent"          	| True            	| True          	|
