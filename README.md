@@ -16,7 +16,6 @@ As a user, I want to input a string so that I can count the number of vowels in 
 &emsp;**Expected Result**: 1 (since 'O' is a vowel)
 
 ***Test Case 03***:
-
  
 &emsp;**Input**: "bcd"
 &emsp;**Expected Result**:  0 (no vowels)
