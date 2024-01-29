@@ -34,8 +34,8 @@ As a user, I want to input a string so that I can count the number of vowels in 
 # Test Result Summary:
 | S.No 	| Test Method Name                     	| Test Description                                                                                                                     	| Input                          	| Expected Output 	| Actual Output 	|
 |------	|--------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------	|-----------------	|---------------	|
-|   1  	| Basic word Checker                	| Check how many vowels are there in the given string input. 	| "Hello "          	| True            	| True          	|
-|   2  	| All uppercase string checker    	| Check number of vowels on all uppecased letters                                                           	| "hello" and "world"            	| False           	| False         	|
+|   1  	| Basic word Checker                	| Check how many vowels are there in the given string input. 	| "Hello "          	| 2            	| 2        	|
+|   2  	| All uppercase string checker    	| Check number of vowels on all uppecased letters                                                           	| "Python"            	| 1           	| 1        	|
 |   3  	| Sensitivity to different cases       	| Check Anagram algorithm's accuracy over strings of Upper and lower case-characters.                                                  	| "Astronomer" and "Moon Starer" 	| False           	| False         	|
 |   4  	| Multi-word phrases accuracy          	| Check Anagram algorithm's accuracy over multi-word strings.                                                                          	| "debit card" and "bad credit"  	| True            	| True          	|
 |   5  	| Sensitivity to different data types. 	| Check Anagram algorithm's sensitivity to strings of different data types(string, number).                                            	| 123 and "321"                  	| False           	| False         	|
